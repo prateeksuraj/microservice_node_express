@@ -1,15 +1,7 @@
-
-##### Then run the following commands to start up the app
-yarn install
-npm start
-
-
-Test cases:
-
 1. localhost:8000/api/signup
 {
-        "email":"test@test.com",
-        "contact":"997766554422",
+        "email":"prateek.suraj@gmail.com",
+        "contact":"9962987122",
         "name":"prateek",
         "role":"admin",
         "password":"1_password_1"
@@ -23,8 +15,8 @@ Test cases:
 2. localhost:8000/api/signin
 
 {
-        "email":"test@test.com",
-        "password":"password"
+        "email":"prateek.suraj@gmail.com",
+        "password":"1_password_1"
                 
 }
   response:
